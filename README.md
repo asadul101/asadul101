@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asadul</h1>
 <h3 align="center">Frontend Developer || Experienced at : HTML3, CSS5, JavaScript(ES6+), TailwindCSS, ReactJS, NodeJS, ExpressJS, MongoDB</h3>
 
-<img src="https://i.ibb.co/X1Dhh2C/boy-cartoon-character-running-books.jpg" alt="">
+<img whait='full' src="https://i.ibb.co/X1Dhh2C/boy-cartoon-character-running-books.jpg" alt="">
 
 - 🔭 I’m currently working on [Organic Food](https://assignment11-8fa81.web.app)
 
